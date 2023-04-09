@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Sahar_FactWorkOrderFulfillment2", "Sahar_FactWorkOrderFulfillment2\Sahar_FactWorkOrderFulfillment2.dtproj", "{3BD98C78-C5CC-4DAA-8D30-5B90A41076DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD98C78-C5CC-4DAA-8D30-5B90A41076DB}.Development|Default.ActiveCfg = Development
+		{3BD98C78-C5CC-4DAA-8D30-5B90A41076DB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B134AA-2B58-47BA-9EEE-8C705E61A5D6}
+	EndGlobalSection
+EndGlobal
